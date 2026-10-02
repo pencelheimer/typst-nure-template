@@ -1,0 +1,11 @@
+[package]
+name = "nure"
+version = "0.2.0"
+entrypoint = "src/lib.typ"
+authors = [ "pencelheimer" ]
+license = "GPL-3.0"
+description = "Typst package with styles and structural blocks for the NURE DSTU works"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
